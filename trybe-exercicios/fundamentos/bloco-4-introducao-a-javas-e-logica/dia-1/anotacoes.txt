@@ -1,0 +1,20 @@
+= atribui
+== compaar somente o valor
+===compra valor eipo 
+switch / case executar diferentes ações
+array = cestas onde pode reunir varias coias no mesmo lugar [1 2 3 4 5]
+for = coondição de laço verdadeira continua (cuidar para fechar  laço se naofica infinito)
+objects = armazea coisas atravez de chaves e valores
+for/in = percorre um array ou objeto
+funçõe servem para empacotar codigo
+
+
+let == declara uma variável let age = 20 (age nome da variavel )
+let nome = "anderson" quando delaramouma variavel com tipo texto o mesmo deve ser incluido emtre aspas dupas.
+não pode começar noe de variavel com número e nem inserirespaços enre o nome(utilizar cammel case para nomes compstotos todos (fullName) (as variaveis são case sensitive qualquer variação de maiusculo ou minulo internfera nahora de chamalas)
+
+const == úmna variavel que não pode ser reatribuida diferente da 'let' se um valor é deinido a ela não pode ser subistiuido como na let.
+
+&& == E / AND
+|| == OR / OU 
+! == NEGATIVO/NOT
